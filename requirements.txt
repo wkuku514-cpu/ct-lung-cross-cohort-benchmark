@@ -1,0 +1,11 @@
+scikit-learn==1.7.2
+lifelines==0.30.0
+scikit-survival==0.25.0
+neuroCombat==0.2.12
+pandas
+numpy
+matplotlib
+scipy
+pyradiomics
+SimpleITK
+lungmask
