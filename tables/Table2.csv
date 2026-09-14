@@ -1,0 +1,3 @@
+﻿Condition,Brier 365d,Brier 730d,Brier 1095d,Calibration slope
+"ComBat, original",0.1468,0.2889,0.2801,+0.815
+"ComBat, recalibrated",0.0884,0.1380,0.1608,—
