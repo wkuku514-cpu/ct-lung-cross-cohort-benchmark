@@ -1,9 +1,10 @@
-### Table 6. LUAD-CT-Survival external evaluation (binary long/short endpoint; diagnostic, not confirmatory).
+### Table 6. Stability-based feature selection intervention.
 
-| Model | AUC (95% CI) | AUC after sign reversal | Accuracy | F1 |
-|---|---|---|---|---|
-| Radiomics | 0.587 (0.415–0.775) | 0.412 | 0.500 | 0.091 |
-| Embedding | 0.525 (0.346–0.699) | 0.475 | 0.500 | 0.167 |
-| Joint | 0.568 (0.385–0.740) | 0.432 | 0.500 | 0.000 |
+| Threshold | Components retained | Stable subset external C-index | Size-matched random subsets (mean ± SD) | Difference | |z| |
+|---|---|---|---|---|---|
+| 0.15 | 3 | 0.5488 | 0.5353 ± 0.0533 | +0.0135 | 0.25 |
+| 0.20 | 11 | 0.5228 | 0.5477 ± 0.0411 | -0.0250 | 0.61 |
+| 0.25 | 23 | 0.5513 | 0.5122 ± 0.0618 | +0.0391 | 0.63 |
+| 0.30 | 36 | 0.4949 | 0.5409 ± 0.0514 | -0.0460 | 0.89 |
 
-**Note.** Models were fitted on LUNG1 survival data using the radiomic and embedding blocks only (80 features, no clinical variables) and without batch correction. The classification threshold was the median hazard in the training cohort. n = 40 patients (20 long, 20 short). All confidence intervals include 0.5; this analysis is reported as diagnostic and not confirmatory.
+**Note.** The full model (89 components) had an external C-index of 0.5090. Random subsets were drawn 20 times at each threshold. |z| = |stable - random mean| / random SD; no comparison exceeded 1.

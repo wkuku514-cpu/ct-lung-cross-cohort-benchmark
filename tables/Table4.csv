@@ -1,6 +1,3 @@
-﻿Metric,Value
-Spearman correlation of fitted Cox coefficients (LUNG1 vs Radiogenomics),0.223 (p = 0.036)
-Top-5 component overlap,1/5 (20%)
-Top-10 component overlap,1/10 (10%)
-Top-20 component overlap,6/20 (30%)
-Median coefficient of variation across folds,0.369
+﻿Condition,Internal CV C-index,External C-index,Delta
+ComBat,0.575,0.509,-0.066
+No ComBat,0.575,0.458,-0.117

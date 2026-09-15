@@ -1,0 +1,4 @@
+﻿Model,AUC (95% CI),AUC after sign reversal,Accuracy,F1
+Radiomics,0.587 (0.415–0.775),0.412,0.500,0.091
+Embedding,0.525 (0.346–0.699),0.475,0.500,0.167
+Joint,0.568 (0.385–0.740),0.432,0.500,0.000

@@ -1,8 +1,8 @@
-### Table 3. Decomposition of cross-cohort performance loss.
+### Table 3. Calibration slope and Brier score within the ComBat-corrected setting.
 
-| Condition | Internal CV C-index | External C-index | Delta |
-|---|---|---|---|
-| ComBat | 0.575 | 0.509 | -0.066 |
-| No ComBat | 0.575 | 0.458 | -0.117 |
+| Condition | Brier 365d | Brier 730d | Brier 1095d | Calibration slope |
+|---|---|---|---|---|
+| ComBat, original | 0.1468 | 0.2889 | 0.2801 | +0.815 |
+| ComBat, recalibrated | 0.0884 | 0.1380 | 0.1608 | — |
 
-**Note.** Internal CV is single-run 5-fold in LUNG1; external C-index is the joint model in the primary external cohort. In-cohort cross-validation is identical before and after ComBat because per-fold standardization removes the per-batch affine correction within the source cohort.
+**Note.** Recalibration was fitted on the external cohort as a post hoc procedure. Brier scores use inverse probability of censoring weights estimated from LUNG1. Because the two cohorts differ substantially in censoring structure (event rate 88.4% vs 29.9%), Brier scores are not directly comparable across ComBat conditions; results for the uncorrected condition are provided in the Supplementary Material.
