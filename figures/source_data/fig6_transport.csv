@@ -1,0 +1,9 @@
+Model,Setting,estimate,lo,hi
+Clinical,Internal OOB,0.519,0.476,0.56
+Radiomics,Internal OOB,0.563,0.517,0.61
+Embedding,Internal OOB,0.574,0.53,0.617
+Joint,Internal OOB,0.571,0.523,0.615
+Clinical,Target cohort,0.593,0.522,0.666
+Radiomics,Target cohort,0.427,NA,NA
+Embedding,Target cohort,0.581,0.504,0.65
+Joint,Target cohort,0.507,0.431,0.58

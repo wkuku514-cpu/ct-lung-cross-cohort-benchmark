@@ -1,0 +1,525 @@
+\begin{thebibliography}{40}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Aerts et~al.(2014)Aerts, Velazquez, Leijenaar, Parmar, Grossmann,
+  Carvalho, Bussink, Monshouwer, Haibe-Kains, Rietveld, Hoebers, Rietbergen,
+  Leemans, Dekker, Quackenbush, Gillies and Lambin}]{aerts2014}
+\bibinfo{author}{Aerts, H.J.W.L.}, \bibinfo{author}{Velazquez, E.R.},
+  \bibinfo{author}{Leijenaar, R.T.H.}, \bibinfo{author}{Parmar, C.},
+  \bibinfo{author}{Grossmann, P.}, \bibinfo{author}{Carvalho, S.},
+  \bibinfo{author}{Bussink, J.}, \bibinfo{author}{Monshouwer, R.},
+  \bibinfo{author}{Haibe-Kains, B.}, \bibinfo{author}{Rietveld, D.},
+  \bibinfo{author}{Hoebers, F.}, \bibinfo{author}{Rietbergen, M.M.},
+  \bibinfo{author}{Leemans, C.R.}, \bibinfo{author}{Dekker, A.},
+  \bibinfo{author}{Quackenbush, J.}, \bibinfo{author}{Gillies, R.J.},
+  \bibinfo{author}{Lambin, P.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Decoding tumour phenotype by noninvasive imaging
+  using a quantitative radiomics approach}.
+\newblock \bibinfo{journal}{Nat Commun} \bibinfo{volume}{5},
+  \bibinfo{pages}{4006}.
+\newblock \DOIprefix\doi{10.1038/ncomms5006}.
+%Type = Article
+\bibitem[{Amini et~al.(2022)Amini, Hajianfar, Hadadi~Avval, Nazari, Deevband,
+  Oveisi, Shiri and Zaidi}]{amini2022}
+\bibinfo{author}{Amini, M.}, \bibinfo{author}{Hajianfar, G.},
+  \bibinfo{author}{Hadadi~Avval, A.}, \bibinfo{author}{Nazari, M.},
+  \bibinfo{author}{Deevband, M.R.}, \bibinfo{author}{Oveisi, M.},
+  \bibinfo{author}{Shiri, I.}, \bibinfo{author}{Zaidi, H.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Overall survival prognostic modelling of non-small
+  cell lung cancer patients using positron emission tomography/computed
+  tomography harmonised radiomics features: The quest for the optimal machine
+  learning algorithm}.
+\newblock \bibinfo{journal}{Clin Oncol (R Coll Radiol)} \bibinfo{volume}{34},
+  \bibinfo{pages}{114--127}.
+\newblock \DOIprefix\doi{10.1016/j.clon.2021.11.014}.
+%Type = Article
+\bibitem[{Bertolini et~al.(2022)Bertolini, Trojani, Botti, Cucurachi,
+  Galaverni, Cozzi, Borghetti, La~Mattina, Pastorello, Avanzo, Revelant,
+  Sepulcri, Paronetto, Ursino, Malfatti, Giaj-Levra, Falcinelli, Iotti, Iori
+  and Ciammella}]{bertolini2022}
+\bibinfo{author}{Bertolini, M.}, \bibinfo{author}{Trojani, V.},
+  \bibinfo{author}{Botti, A.}, \bibinfo{author}{Cucurachi, N.},
+  \bibinfo{author}{Galaverni, M.}, \bibinfo{author}{Cozzi, S.},
+  \bibinfo{author}{Borghetti, P.}, \bibinfo{author}{La~Mattina, S.},
+  \bibinfo{author}{Pastorello, E.}, \bibinfo{author}{Avanzo, M.},
+  \bibinfo{author}{Revelant, A.}, \bibinfo{author}{Sepulcri, M.},
+  \bibinfo{author}{Paronetto, C.}, \bibinfo{author}{Ursino, S.},
+  \bibinfo{author}{Malfatti, G.}, \bibinfo{author}{Giaj-Levra, N.},
+  \bibinfo{author}{Falcinelli, L.}, \bibinfo{author}{Iotti, C.},
+  \bibinfo{author}{Iori, M.}, \bibinfo{author}{Ciammella, P.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Novel harmonization method for multi-centric radiomic
+  studies in non-small cell lung cancer}.
+\newblock \bibinfo{journal}{Curr Oncol} \bibinfo{volume}{29},
+  \bibinfo{pages}{5179--5194}.
+\newblock \DOIprefix\doi{10.3390/curroncol29080410}.
+%Type = Article
+\bibitem[{Brier(1950)}]{brier1950}
+\bibinfo{author}{Brier, G.W.}, \bibinfo{year}{1950}.
+\newblock \bibinfo{title}{Verification of forecasts expressed in terms of
+  probability}.
+\newblock \bibinfo{journal}{Monthly Weather Review} \bibinfo{volume}{78},
+  \bibinfo{pages}{1--3}.
+\newblock \DOIprefix\doi{10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2}.
+%Type = Article
+\bibitem[{Chen et~al.(2022)Chen, Bermejo, Dekker and Wee}]{chen2022}
+\bibinfo{author}{Chen, J.}, \bibinfo{author}{Bermejo, I.},
+  \bibinfo{author}{Dekker, A.}, \bibinfo{author}{Wee, L.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Generative models improve radiomics performance in
+  different tasks and different datasets: An experimental study}.
+\newblock \bibinfo{journal}{Phys Med} \bibinfo{volume}{98},
+  \bibinfo{pages}{11--17}.
+\newblock \DOIprefix\doi{10.1016/j.ejmp.2022.04.008}.
+%Type = Article
+\bibitem[{Collins et~al.(2024)Collins, Moons, Dhiman, Riley, Beam, Van~Calster,
+  Ghassemi, Liu, Reitsma, van Smeden, Boulesteix, Camaradou, Celi, Denaxas,
+  Denniston, Glocker, Golub, Harvey, Heinze, Hoffman, Kengne, Lam, Lee, Loder,
+  Maier-Hein, Mateen, McCradden, Oakden-Rayner, Ordish, Parnell, Rose, Singh,
+  Wynants and Logullo}]{collins2024}
+\bibinfo{author}{Collins, G.S.}, \bibinfo{author}{Moons, K.G.M.},
+  \bibinfo{author}{Dhiman, P.}, \bibinfo{author}{Riley, R.D.},
+  \bibinfo{author}{Beam, A.L.}, \bibinfo{author}{Van~Calster, B.},
+  \bibinfo{author}{Ghassemi, M.}, \bibinfo{author}{Liu, X.},
+  \bibinfo{author}{Reitsma, J.B.}, \bibinfo{author}{van Smeden, M.},
+  \bibinfo{author}{Boulesteix, A.L.}, \bibinfo{author}{Camaradou, J.C.},
+  \bibinfo{author}{Celi, L.A.}, \bibinfo{author}{Denaxas, S.},
+  \bibinfo{author}{Denniston, A.K.}, \bibinfo{author}{Glocker, B.},
+  \bibinfo{author}{Golub, R.M.}, \bibinfo{author}{Harvey, H.},
+  \bibinfo{author}{Heinze, G.}, \bibinfo{author}{Hoffman, M.M.},
+  \bibinfo{author}{Kengne, A.P.}, \bibinfo{author}{Lam, E.},
+  \bibinfo{author}{Lee, N.}, \bibinfo{author}{Loder, E.W.},
+  \bibinfo{author}{Maier-Hein, L.}, \bibinfo{author}{Mateen, B.A.},
+  \bibinfo{author}{McCradden, M.D.}, \bibinfo{author}{Oakden-Rayner, L.},
+  \bibinfo{author}{Ordish, J.}, \bibinfo{author}{Parnell, R.},
+  \bibinfo{author}{Rose, S.}, \bibinfo{author}{Singh, K.},
+  \bibinfo{author}{Wynants, L.}, \bibinfo{author}{Logullo, P.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Tripod+ai statement: updated guidance for reporting
+  clinical prediction models that use regression or machine learning methods}.
+\newblock \bibinfo{journal}{BMJ} \bibinfo{volume}{385},
+  \bibinfo{pages}{e078378}.
+\newblock \DOIprefix\doi{10.1136/bmj-2023-078378}.
+%Type = Article
+\bibitem[{Collins et~al.(2015)Collins, Reitsma, Altman and Moons}]{collins2015}
+\bibinfo{author}{Collins, G.S.}, \bibinfo{author}{Reitsma, J.B.},
+  \bibinfo{author}{Altman, D.G.}, \bibinfo{author}{Moons, K.G.M.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Transparent reporting of a multivariable prediction
+  model for individual prognosis or diagnosis (tripod): the tripod statement}.
+\newblock \bibinfo{journal}{BMJ} \bibinfo{volume}{350}, \bibinfo{pages}{g7594}.
+\newblock \DOIprefix\doi{10.1136/bmj.g7594}.
+%Type = Article
+\bibitem[{Cromb\'e et~al.(2020)Cromb\'e, Kind, Fadli, Le~Loarer, Italiano, Buy
+  and Saut}]{cromb2020}
+\bibinfo{author}{Cromb\'e, A.}, \bibinfo{author}{Kind, M.},
+  \bibinfo{author}{Fadli, D.}, \bibinfo{author}{Le~Loarer, F.},
+  \bibinfo{author}{Italiano, A.}, \bibinfo{author}{Buy, X.},
+  \bibinfo{author}{Saut, O.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Intensity harmonization techniques influence
+  radiomics features and radiomics-based predictions in sarcoma patients}.
+\newblock \bibinfo{journal}{Sci Rep} \bibinfo{volume}{10},
+  \bibinfo{pages}{15496}.
+\newblock \DOIprefix\doi{10.1038/s41598-020-72535-0}.
+%Type = Article
+\bibitem[{Crowson et~al.(2016)Crowson, Atkinson and Therneau}]{crowson2016}
+\bibinfo{author}{Crowson, C.S.}, \bibinfo{author}{Atkinson, E.J.},
+  \bibinfo{author}{Therneau, T.M.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Assessing calibration of prognostic risk scores}.
+\newblock \bibinfo{journal}{Stat Methods Med Res} \bibinfo{volume}{25},
+  \bibinfo{pages}{1692--706}.
+\newblock \DOIprefix\doi{10.1177/0962280213497434}.
+%Type = Article
+\bibitem[{Da-Ano et~al.(2020)Da-Ano, Visvikis and Hatt}]{daano2020}
+\bibinfo{author}{Da-Ano, R.}, \bibinfo{author}{Visvikis, D.},
+  \bibinfo{author}{Hatt, M.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Harmonization strategies for multicenter radiomics
+  investigations}.
+\newblock \bibinfo{journal}{Phys Med Biol} \bibinfo{volume}{65},
+  \bibinfo{pages}{24TR02}.
+\newblock \DOIprefix\doi{10.1088/1361-6560/aba798}.
+%Type = Article
+\bibitem[{Fortin et~al.(2018)Fortin, Cullen, Sheline, Taylor, Aselcioglu, Cook,
+  Adams, Cooper, Fava, McGrath, McInnis, Phillips, Trivedi, Weissman and
+  Shinohara}]{fortin2018}
+\bibinfo{author}{Fortin, J.P.}, \bibinfo{author}{Cullen, N.},
+  \bibinfo{author}{Sheline, Y.I.}, \bibinfo{author}{Taylor, W.D.},
+  \bibinfo{author}{Aselcioglu, I.}, \bibinfo{author}{Cook, P.A.},
+  \bibinfo{author}{Adams, P.}, \bibinfo{author}{Cooper, C.},
+  \bibinfo{author}{Fava, M.}, \bibinfo{author}{McGrath, P.J.},
+  \bibinfo{author}{McInnis, M.}, \bibinfo{author}{Phillips, M.L.},
+  \bibinfo{author}{Trivedi, M.H.}, \bibinfo{author}{Weissman, M.M.},
+  \bibinfo{author}{Shinohara, R.T.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Harmonization of cortical thickness measurements
+  across scanners and sites}.
+\newblock \bibinfo{journal}{Neuroimage} \bibinfo{volume}{167},
+  \bibinfo{pages}{104--120}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2017.11.024}.
+%Type = Article
+\bibitem[{Gao et~al.(2025)Gao, Zhang, Liang, Liu, Ma, Wang, Guo, Chen, Yan,
+  Chen, He, Xu, Wong, Guo and Dai}]{gao2025}
+\bibinfo{author}{Gao, Z.}, \bibinfo{author}{Zhang, G.}, \bibinfo{author}{Liang,
+  H.}, \bibinfo{author}{Liu, J.}, \bibinfo{author}{Ma, L.},
+  \bibinfo{author}{Wang, T.}, \bibinfo{author}{Guo, Y.}, \bibinfo{author}{Chen,
+  Y.}, \bibinfo{author}{Yan, Z.}, \bibinfo{author}{Chen, X.},
+  \bibinfo{author}{He, J.}, \bibinfo{author}{Xu, F.}, \bibinfo{author}{Wong,
+  T.Y.}, \bibinfo{author}{Guo, Y.}, \bibinfo{author}{Dai, Q.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{A lung ct vision foundation model facilitating
+  disease diagnosis and medical imaging}.
+\newblock \bibinfo{journal}{Nat Commun} \bibinfo{volume}{17},
+  \bibinfo{pages}{35}.
+\newblock \DOIprefix\doi{10.1038/s41467-025-66620-z}.
+%Type = Article
+\bibitem[{Ge et~al.(2023)Ge, Siddique and Zhang}]{ge2023}
+\bibinfo{author}{Ge, G.}, \bibinfo{author}{Siddique, A.},
+  \bibinfo{author}{Zhang, J.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Inconsistent ct nsclc radiomics associated with
+  feature selection methods, predictive models and related factors}.
+\newblock \bibinfo{journal}{Phys Med Biol} \bibinfo{volume}{68}.
+\newblock \DOIprefix\doi{10.1088/1361-6560/acce1c}.
+%Type = Article
+\bibitem[{Gneiting and Raftery(2007)}]{gneiting2007}
+\bibinfo{author}{Gneiting, T.}, \bibinfo{author}{Raftery, A.E.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Strictly proper scoring rules, prediction, and
+  estimation}.
+\newblock \bibinfo{journal}{Journal of the American Statistical Association}
+  \bibinfo{volume}{102}, \bibinfo{pages}{359--378}.
+\newblock \DOIprefix\doi{10.1198/016214506000001437}.
+%Type = Article
+\bibitem[{van Griethuysen et~al.(2017)van Griethuysen, Fedorov, Parmar, Hosny,
+  Aucoin, Narayan, Beets-Tan, Fillion-Robin, Pieper and
+  Aerts}]{vangriethuysen2017}
+\bibinfo{author}{van Griethuysen, J.J.M.}, \bibinfo{author}{Fedorov, A.},
+  \bibinfo{author}{Parmar, C.}, \bibinfo{author}{Hosny, A.},
+  \bibinfo{author}{Aucoin, N.}, \bibinfo{author}{Narayan, V.},
+  \bibinfo{author}{Beets-Tan, R.G.H.}, \bibinfo{author}{Fillion-Robin, J.C.},
+  \bibinfo{author}{Pieper, S.}, \bibinfo{author}{Aerts, H.J.W.L.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Computational radiomics system to decode the
+  radiographic phenotype}.
+\newblock \bibinfo{journal}{Cancer Res} \bibinfo{volume}{77},
+  \bibinfo{pages}{e104--e107}.
+\newblock \DOIprefix\doi{10.1158/0008-5472.CAN-17-0339}.
+%Type = Article
+\bibitem[{Horng et~al.(2022)Horng, Singh, Yousefi, Cohen, Haghighi, Katz,
+  No\"el, Shinohara and Kontos}]{horng2022}
+\bibinfo{author}{Horng, H.}, \bibinfo{author}{Singh, A.},
+  \bibinfo{author}{Yousefi, B.}, \bibinfo{author}{Cohen, E.A.},
+  \bibinfo{author}{Haghighi, B.}, \bibinfo{author}{Katz, S.},
+  \bibinfo{author}{No\"el, P.B.}, \bibinfo{author}{Shinohara, R.T.},
+  \bibinfo{author}{Kontos, D.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Generalized combat harmonization methods for radiomic
+  features with multi-modal distributions and multiple batch effects}.
+\newblock \bibinfo{journal}{Sci Rep} \bibinfo{volume}{12},
+  \bibinfo{pages}{4493}.
+\newblock \DOIprefix\doi{10.1038/s41598-022-08412-9}.
+%Type = Article
+\bibitem[{Hosny et~al.(2018)Hosny, Parmar, Coroller, Grossmann, Zeleznik,
+  Kumar, Bussink, Gillies, Mak and Aerts}]{hosny2018}
+\bibinfo{author}{Hosny, A.}, \bibinfo{author}{Parmar, C.},
+  \bibinfo{author}{Coroller, T.P.}, \bibinfo{author}{Grossmann, P.},
+  \bibinfo{author}{Zeleznik, R.}, \bibinfo{author}{Kumar, A.},
+  \bibinfo{author}{Bussink, J.}, \bibinfo{author}{Gillies, R.J.},
+  \bibinfo{author}{Mak, R.H.}, \bibinfo{author}{Aerts, H.J.W.L.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Deep learning for lung cancer prognostication: A
+  retrospective multi-cohort radiomics study}.
+\newblock \bibinfo{journal}{PLoS Med} \bibinfo{volume}{15},
+  \bibinfo{pages}{e1002711}.
+\newblock \DOIprefix\doi{10.1371/journal.pmed.1002711}.
+%Type = Article
+\bibitem[{Jha et~al.(2023)Jha, Sherkhane, Mthun, Jaiswar, Purandare, Prabhash,
+  Wee, Rangarajan and Dekker}]{jha2023}
+\bibinfo{author}{Jha, A.K.}, \bibinfo{author}{Sherkhane, U.B.},
+  \bibinfo{author}{Mthun, S.}, \bibinfo{author}{Jaiswar, V.},
+  \bibinfo{author}{Purandare, N.}, \bibinfo{author}{Prabhash, K.},
+  \bibinfo{author}{Wee, L.}, \bibinfo{author}{Rangarajan, V.},
+  \bibinfo{author}{Dekker, A.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{External validation of robust radiomic signature to
+  predict 2-year overall survival in non-small-cell lung cancer}.
+\newblock \bibinfo{journal}{J Digit Imaging} \bibinfo{volume}{36},
+  \bibinfo{pages}{2519--2531}.
+\newblock \DOIprefix\doi{10.1007/s10278-023-00835-8}.
+%Type = Article
+\bibitem[{Jiang et~al.(2026)Jiang, Xu, Jia and Liu}]{jiang2026}
+\bibinfo{author}{Jiang, Z.}, \bibinfo{author}{Xu, Y.}, \bibinfo{author}{Jia,
+  S.}, \bibinfo{author}{Liu, H.}, \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{Radiomics-based ai for predicting neoadjuvant
+  immunochemotherapy pathological response in non-small cell lung cancer:
+  Systematic review and meta-analysis}.
+\newblock \bibinfo{journal}{J Med Internet Res} \bibinfo{volume}{28},
+  \bibinfo{pages}{e93892}.
+\newblock \DOIprefix\doi{10.2196/93892}.
+%Type = Article
+\bibitem[{Johnson et~al.(2007)Johnson, Li and Rabinovic}]{johnson2007}
+\bibinfo{author}{Johnson, W.E.}, \bibinfo{author}{Li, C.},
+  \bibinfo{author}{Rabinovic, A.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Adjusting batch effects in microarray expression data
+  using empirical bayes methods}.
+\newblock \bibinfo{journal}{Biostatistics} \bibinfo{volume}{8},
+  \bibinfo{pages}{118--27}.
+\newblock \DOIprefix\doi{10.1093/biostatistics/kxj037}.
+%Type = Article
+\bibitem[{Lambin et~al.(2025)Lambin, Woodruff, Mali, Zhong, Kuang, Lavrova,
+  Khan, Lekadir, Zwanenburg, Deasy, Bobowicz, Marti-Bonmati, Maidment,
+  Dumontier, Kinahan, Nobel, Amirrajab and Salahuddin}]{lambin2025}
+\bibinfo{author}{Lambin, P.}, \bibinfo{author}{Woodruff, H.C.},
+  \bibinfo{author}{Mali, S.A.}, \bibinfo{author}{Zhong, X.},
+  \bibinfo{author}{Kuang, S.}, \bibinfo{author}{Lavrova, E.},
+  \bibinfo{author}{Khan, H.}, \bibinfo{author}{Lekadir, K.},
+  \bibinfo{author}{Zwanenburg, A.}, \bibinfo{author}{Deasy, J.},
+  \bibinfo{author}{Bobowicz, M.}, \bibinfo{author}{Marti-Bonmati, L.},
+  \bibinfo{author}{Maidment, A.}, \bibinfo{author}{Dumontier, M.},
+  \bibinfo{author}{Kinahan, P.E.}, \bibinfo{author}{Nobel, J.M.},
+  \bibinfo{author}{Amirrajab, S.}, \bibinfo{author}{Salahuddin, Z.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Radiomics quality score 2.0: towards radiomics
+  readiness levels and clinical translation for personalized medicine}.
+\newblock \bibinfo{journal}{Nat Rev Clin Oncol} \bibinfo{volume}{22},
+  \bibinfo{pages}{831--846}.
+\newblock \DOIprefix\doi{10.1038/s41571-025-01067-1}.
+%Type = Article
+\bibitem[{Le et~al.(2023)Le, Kha, Minh, Nguyen, Le and Le}]{le2023}
+\bibinfo{author}{Le, V.H.}, \bibinfo{author}{Kha, Q.H.}, \bibinfo{author}{Minh,
+  T.N.T.}, \bibinfo{author}{Nguyen, V.H.}, \bibinfo{author}{Le, V.L.},
+  \bibinfo{author}{Le, N.Q.K.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Development and validation of ct-based radiomics
+  signature for overall survival prediction in multi-organ cancer}.
+\newblock \bibinfo{journal}{J Digit Imaging} \bibinfo{volume}{36},
+  \bibinfo{pages}{911--922}.
+\newblock \DOIprefix\doi{10.1007/s10278-023-00778-0}.
+%Type = Article
+\bibitem[{Mahon et~al.(2020)Mahon, Ghita, Hugo and Weiss}]{mahon2020}
+\bibinfo{author}{Mahon, R.N.}, \bibinfo{author}{Ghita, M.},
+  \bibinfo{author}{Hugo, G.D.}, \bibinfo{author}{Weiss, E.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Combat harmonization for radiomic features in
+  independent phantom and lung cancer patient computed tomography datasets}.
+\newblock \bibinfo{journal}{Phys Med Biol} \bibinfo{volume}{65},
+  \bibinfo{pages}{015010}.
+\newblock \DOIprefix\doi{10.1088/1361-6560/ab6177}.
+%Type = Article
+\bibitem[{Mayerhoefer et~al.(2020)Mayerhoefer, Materka, Langs, H\"aggstr\"om,
+  Szczypi\'nski, Gibbs and Cook}]{mayerhoefer2020}
+\bibinfo{author}{Mayerhoefer, M.E.}, \bibinfo{author}{Materka, A.},
+  \bibinfo{author}{Langs, G.}, \bibinfo{author}{H\"aggstr\"om, I.},
+  \bibinfo{author}{Szczypi\'nski, P.}, \bibinfo{author}{Gibbs, P.},
+  \bibinfo{author}{Cook, G.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Introduction to radiomics}.
+\newblock \bibinfo{journal}{J Nucl Med} \bibinfo{volume}{61},
+  \bibinfo{pages}{488--495}.
+\newblock \DOIprefix\doi{10.2967/jnumed.118.222893}.
+%Type = Article
+\bibitem[{Niu et~al.(2021)Niu, Liu, Liu, Wang and Song}]{niu2021}
+\bibinfo{author}{Niu, S.}, \bibinfo{author}{Liu, M.}, \bibinfo{author}{Liu,
+  Y.}, \bibinfo{author}{Wang, J.}, \bibinfo{author}{Song, H.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Distant domain transfer learning for medical
+  imaging}.
+\newblock \bibinfo{journal}{IEEE J Biomed Health Inform} \bibinfo{volume}{25},
+  \bibinfo{pages}{3784--3793}.
+\newblock \DOIprefix\doi{10.1109/JBHI.2021.3051470}.
+%Type = Article
+\bibitem[{Sahin and Karacor(2026)}]{sahin2026}
+\bibinfo{author}{Sahin, S.}, \bibinfo{author}{Karacor, A.G.},
+  \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{Data-efficient and explainable multimodal survival
+  prediction in nsclc using deep image embeddings, clinical variables, and
+  gradient-boosted trees}.
+\newblock \bibinfo{journal}{Diagnostics (Basel)} \bibinfo{volume}{16}.
+\newblock \DOIprefix\doi{10.3390/diagnostics16121941}.
+%Type = Article
+\bibitem[{Shin et~al.(2022)Shin, Gail and Pfeiffer}]{shin2022}
+\bibinfo{author}{Shin, Y.E.}, \bibinfo{author}{Gail, M.H.},
+  \bibinfo{author}{Pfeiffer, R.M.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Assessing risk model calibration with missing
+  covariates}.
+\newblock \bibinfo{journal}{Biostatistics} \bibinfo{volume}{23},
+  \bibinfo{pages}{875--890}.
+\newblock \DOIprefix\doi{10.1093/biostatistics/kxaa060}.
+%Type = Article
+\bibitem[{Tariq et~al.(2024)Tariq, Ramasamy, Patel and Banerjee}]{tariq2024}
+\bibinfo{author}{Tariq, A.}, \bibinfo{author}{Ramasamy, G.},
+  \bibinfo{author}{Patel, B.}, \bibinfo{author}{Banerjee, I.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Self-supervised learning for chest computed
+  tomography: training strategies and effect on downstream applications}.
+\newblock \bibinfo{journal}{J Med Imaging (Bellingham)} \bibinfo{volume}{11},
+  \bibinfo{pages}{064003}.
+\newblock \DOIprefix\doi{10.1117/1.JMI.11.6.064003}.
+%Type = Article
+\bibitem[{Tejani et~al.(2024)Tejani, Klontzas, Gatti, Mongan, Moy, Park, Kahn
+  and {CLAIM 2024 Update Panel}}]{tejani2024}
+\bibinfo{author}{Tejani, A.S.}, \bibinfo{author}{Klontzas, M.E.},
+  \bibinfo{author}{Gatti, A.A.}, \bibinfo{author}{Mongan, J.T.},
+  \bibinfo{author}{Moy, L.}, \bibinfo{author}{Park, S.H.},
+  \bibinfo{author}{Kahn, C.E.}, \bibinfo{author}{{CLAIM 2024 Update Panel}},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Checklist for artificial intelligence in medical
+  imaging (claim): 2024 update}.
+\newblock \bibinfo{journal}{Radiol Artif Intell} \bibinfo{volume}{6},
+  \bibinfo{pages}{e240300}.
+\newblock \DOIprefix\doi{10.1148/ryai.240300}.
+%Type = Article
+\bibitem[{van Timmeren et~al.(2020)van Timmeren, Cester, Tanadini-Lang, Alkadhi
+  and Baessler}]{vantimmeren2020}
+\bibinfo{author}{van Timmeren, J.E.}, \bibinfo{author}{Cester, D.},
+  \bibinfo{author}{Tanadini-Lang, S.}, \bibinfo{author}{Alkadhi, H.},
+  \bibinfo{author}{Baessler, B.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Radiomics in medical imaging-"how-to" guide and
+  critical reflection}.
+\newblock \bibinfo{journal}{Insights Imaging} \bibinfo{volume}{11},
+  \bibinfo{pages}{91}.
+\newblock \DOIprefix\doi{10.1186/s13244-020-00887-2}.
+%Type = Article
+\bibitem[{Van~Calster et~al.(2019)Van~Calster, McLernon, van Smeden, Wynants,
+  Steyerberg and {Topic Group `Evaluating diagnostic tests and prediction
+  models' of the STRATOS initiative}}]{vancalster2019}
+\bibinfo{author}{Van~Calster, B.}, \bibinfo{author}{McLernon, D.J.},
+  \bibinfo{author}{van Smeden, M.}, \bibinfo{author}{Wynants, L.},
+  \bibinfo{author}{Steyerberg, E.W.}, \bibinfo{author}{{Topic Group `Evaluating
+  diagnostic tests and prediction models' of the STRATOS initiative}},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Calibration: the achilles heel of predictive
+  analytics}.
+\newblock \bibinfo{journal}{BMC Med} \bibinfo{volume}{17},
+  \bibinfo{pages}{230}.
+\newblock \DOIprefix\doi{10.1186/s12916-019-1466-7}.
+%Type = Article
+\bibitem[{Vickers and Elkin(2006)}]{vickers2006}
+\bibinfo{author}{Vickers, A.J.}, \bibinfo{author}{Elkin, E.B.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Decision curve analysis: a novel method for
+  evaluating prediction models}.
+\newblock \bibinfo{journal}{Med Decis Making} \bibinfo{volume}{26},
+  \bibinfo{pages}{565--74}.
+\newblock \DOIprefix\doi{10.1177/0272989X06295361}.
+%Type = Article
+\bibitem[{Vickers et~al.(2023)Vickers, Van~Claster, Wynants and
+  Steyerberg}]{vickers2023}
+\bibinfo{author}{Vickers, A.J.}, \bibinfo{author}{Van~Claster, B.},
+  \bibinfo{author}{Wynants, L.}, \bibinfo{author}{Steyerberg, E.W.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Decision curve analysis: confidence intervals and
+  hypothesis testing for net benefit}.
+\newblock \bibinfo{journal}{Diagn Progn Res} \bibinfo{volume}{7},
+  \bibinfo{pages}{11}.
+\newblock \DOIprefix\doi{10.1186/s41512-023-00148-y}.
+%Type = Misc
+\bibitem[{Wang and Li(2026)}]{wang2026software}
+\bibinfo{author}{Wang, J.}, \bibinfo{author}{Li, Y.}, \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{ct-lung-cross-cohort-benchmark: Analysis code for
+  cross-cohort reproducibility of ct-based lung cancer survival prediction,
+  version v1.0.0}.
+\newblock \DOIprefix\doi{10.5281/zenodo.22754482}.
+%Type = Article
+\bibitem[{Wang et~al.(2022a)Wang, She, Yang, Liu, Chen, Zhong, Deng, Zhao, Sun,
+  Xie and Chen}]{wang2022}
+\bibinfo{author}{Wang, T.}, \bibinfo{author}{She, Y.}, \bibinfo{author}{Yang,
+  Y.}, \bibinfo{author}{Liu, X.}, \bibinfo{author}{Chen, S.},
+  \bibinfo{author}{Zhong, Y.}, \bibinfo{author}{Deng, J.},
+  \bibinfo{author}{Zhao, M.}, \bibinfo{author}{Sun, X.}, \bibinfo{author}{Xie,
+  D.}, \bibinfo{author}{Chen, C.}, \bibinfo{year}{2022}a.
+\newblock \bibinfo{title}{Radiomics for survival risk stratification of
+  clinical and pathologic stage ia pure-solid non-small cell lung cancer}.
+\newblock \bibinfo{journal}{Radiology} \bibinfo{volume}{302},
+  \bibinfo{pages}{425--434}.
+\newblock \DOIprefix\doi{10.1148/radiol.2021210109}.
+%Type = Article
+\bibitem[{Wang et~al.(2022b)Wang, Yang, Han, Sui, Zheng, Xue, Xu, Wu, Chen, Gu,
+  Song and Jiang}]{wang2022b}
+\bibinfo{author}{Wang, Z.}, \bibinfo{author}{Yang, C.}, \bibinfo{author}{Han,
+  W.}, \bibinfo{author}{Sui, X.}, \bibinfo{author}{Zheng, F.},
+  \bibinfo{author}{Xue, F.}, \bibinfo{author}{Xu, X.}, \bibinfo{author}{Wu,
+  P.}, \bibinfo{author}{Chen, Y.}, \bibinfo{author}{Gu, W.},
+  \bibinfo{author}{Song, W.}, \bibinfo{author}{Jiang, J.},
+  \bibinfo{year}{2022}b.
+\newblock \bibinfo{title}{Quantifying lung cancer heterogeneity using novel ct
+  features: a cross-institute study}.
+\newblock \bibinfo{journal}{Insights Imaging} \bibinfo{volume}{13},
+  \bibinfo{pages}{82}.
+\newblock \DOIprefix\doi{10.1186/s13244-022-01204-9}.
+%Type = Article
+\bibitem[{Wynants et~al.(2020)Wynants, Van~Calster, Collins, Riley, Heinze,
+  Schuit, Bonten, Dahly, Damen, Debray, de~Jong, De~Vos, Dhiman, Haller,
+  Harhay, Henckaerts, Heus, Kammer, Kreuzberger, Lohmann, Luijken, Ma, Martin,
+  McLernon, Andaur~Navarro, Reitsma, Sergeant, Shi, Skoetz, Smits, Snell,
+  Sperrin, Spijker, Steyerberg, Takada, Tzoulaki, van Kuijk, van Bussel,
+  van~der Horst, van Royen, Verbakel, Wallisch, Wilkinson, Wolff, Hooft, Moons
+  and van Smeden}]{wynants2020}
+\bibinfo{author}{Wynants, L.}, \bibinfo{author}{Van~Calster, B.},
+  \bibinfo{author}{Collins, G.S.}, \bibinfo{author}{Riley, R.D.},
+  \bibinfo{author}{Heinze, G.}, \bibinfo{author}{Schuit, E.},
+  \bibinfo{author}{Bonten, M.M.J.}, \bibinfo{author}{Dahly, D.L.},
+  \bibinfo{author}{Damen, J.A.A.}, \bibinfo{author}{Debray, T.P.A.},
+  \bibinfo{author}{de~Jong, V.M.T.}, \bibinfo{author}{De~Vos, M.},
+  \bibinfo{author}{Dhiman, P.}, \bibinfo{author}{Haller, M.C.},
+  \bibinfo{author}{Harhay, M.O.}, \bibinfo{author}{Henckaerts, L.},
+  \bibinfo{author}{Heus, P.}, \bibinfo{author}{Kammer, M.},
+  \bibinfo{author}{Kreuzberger, N.}, \bibinfo{author}{Lohmann, A.},
+  \bibinfo{author}{Luijken, K.}, \bibinfo{author}{Ma, J.},
+  \bibinfo{author}{Martin, G.P.}, \bibinfo{author}{McLernon, D.J.},
+  \bibinfo{author}{Andaur~Navarro, C.L.}, \bibinfo{author}{Reitsma, J.B.},
+  \bibinfo{author}{Sergeant, J.C.}, \bibinfo{author}{Shi, C.},
+  \bibinfo{author}{Skoetz, N.}, \bibinfo{author}{Smits, L.J.M.},
+  \bibinfo{author}{Snell, K.I.E.}, \bibinfo{author}{Sperrin, M.},
+  \bibinfo{author}{Spijker, R.}, \bibinfo{author}{Steyerberg, E.W.},
+  \bibinfo{author}{Takada, T.}, \bibinfo{author}{Tzoulaki, I.},
+  \bibinfo{author}{van Kuijk, S.M.J.}, \bibinfo{author}{van Bussel, B.},
+  \bibinfo{author}{van~der Horst, I.C.C.}, \bibinfo{author}{van Royen, F.S.},
+  \bibinfo{author}{Verbakel, J.Y.}, \bibinfo{author}{Wallisch, C.},
+  \bibinfo{author}{Wilkinson, J.}, \bibinfo{author}{Wolff, R.},
+  \bibinfo{author}{Hooft, L.}, \bibinfo{author}{Moons, K.G.M.},
+  \bibinfo{author}{van Smeden, M.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Prediction models for diagnosis and prognosis of
+  covid-19: systematic review and critical appraisal}.
+\newblock \bibinfo{journal}{BMJ} \bibinfo{volume}{369}, \bibinfo{pages}{m1328}.
+\newblock \DOIprefix\doi{10.1136/bmj.m1328}.
+%Type = Article
+\bibitem[{Zech et~al.(2018)Zech, Badgeley, Liu, Costa, Titano and
+  Oermann}]{zech2018}
+\bibinfo{author}{Zech, J.R.}, \bibinfo{author}{Badgeley, M.A.},
+  \bibinfo{author}{Liu, M.}, \bibinfo{author}{Costa, A.B.},
+  \bibinfo{author}{Titano, J.J.}, \bibinfo{author}{Oermann, E.K.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Variable generalization performance of a deep
+  learning model to detect pneumonia in chest radiographs: A cross-sectional
+  study}.
+\newblock \bibinfo{journal}{PLoS Med} \bibinfo{volume}{15},
+  \bibinfo{pages}{e1002683}.
+\newblock \DOIprefix\doi{10.1371/journal.pmed.1002683}.
+%Type = Article
+\bibitem[{Zhao et~al.(2024)Zhao, Leng, Hu, Xiao, Li, Liu and Mao}]{zhao2024}
+\bibinfo{author}{Zhao, L.}, \bibinfo{author}{Leng, Y.}, \bibinfo{author}{Hu,
+  Y.}, \bibinfo{author}{Xiao, J.}, \bibinfo{author}{Li, Q.},
+  \bibinfo{author}{Liu, C.}, \bibinfo{author}{Mao, Y.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Understanding decision curve analysis in clinical
+  prediction model research}.
+\newblock \bibinfo{journal}{Postgrad Med J} \bibinfo{volume}{100},
+  \bibinfo{pages}{512--515}.
+\newblock \DOIprefix\doi{10.1093/postmj/qgae027}.
+%Type = Article
+\bibitem[{Zhou et~al.(2021)Zhou, Sodha, Pang, Gotway and Liang}]{zhou2021}
+\bibinfo{author}{Zhou, Z.}, \bibinfo{author}{Sodha, V.}, \bibinfo{author}{Pang,
+  J.}, \bibinfo{author}{Gotway, M.B.}, \bibinfo{author}{Liang, J.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Models genesis}.
+\newblock \bibinfo{journal}{Med Image Anal} \bibinfo{volume}{67},
+  \bibinfo{pages}{101840}.
+\newblock \DOIprefix\doi{10.1016/j.media.2020.101840}.
+
+\end{thebibliography}

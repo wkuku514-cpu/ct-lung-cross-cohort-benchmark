@@ -1,0 +1,5 @@
+ComBat removed cross-cohort feature shift but did not improve discrimination.
+External C-index stayed at 0.507 (95% CI 0.431–0.580) after batch correction.
+Recalibration cut Brier scores by 40–52% without changing the C-index.
+Feature–outcome associations differed between cohorts (top-10 overlap 10%).
+Cross-cohort reproducibility comprises orthogonal layers needing separate reporting.
